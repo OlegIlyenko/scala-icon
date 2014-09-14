@@ -1,9 +1,13 @@
 # scala-icon
 
-Simple scala icon with shadow:
+Simple scala, play and akka icons:
 
 
 ![Scala Icon](https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png)
+
+![Play Icon](https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/play-icon.png)
+
+![Play Icon](https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/akka-icon.png)
 
 ## License
 
