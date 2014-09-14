@@ -1,4 +1,5 @@
-scala-icon
-==========
+# scala-icon
 
-Simple scala icon with shadow
+Simple scala icon with shadow:
+
+
