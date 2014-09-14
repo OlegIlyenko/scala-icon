@@ -7,7 +7,7 @@ Simple scala icon with shadow:
 
 ## License
 
-The logo on the artwork is the [Scala programming language](http://www.scala-lang.org/) logo. ([Scala license](http://www.scala-lang.org/license.html))
+The logo on the artwork are [Scala programming language](http://www.scala-lang.org/) ([Scala license](http://www.scala-lang.org/license.html)), [Play framework](https://www.playframework.com/) and [Akka](http://akka.io/) logos. 
  
 This artwork is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
